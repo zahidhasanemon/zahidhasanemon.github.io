@@ -1,0 +1,24 @@
+# Zahid Hasan Emon
+
+> Lead Software Engineer with 9+ years of experience building readable, maintainable, scalable web applications with Laravel, Vue.js, Express.js and MongoDB. 6.1k+ Stack Overflow reputation, 25+ projects completed.
+
+## Profiles
+- [Portfolio](https://zahidhasanemon.github.io/): this site
+- [GitHub](https://github.com/zahidhasanemon)
+- [LinkedIn](https://www.linkedin.com/in/zahidhemon)
+- [Stack Overflow](https://stackoverflow.com/users/zahidhasanemon)
+- Email: zhemon5@gmail.com
+
+## Skills
+- Backend: PHP, Laravel, Laravel Nova, Node.js, Express.js
+- Frontend: Vue.js, JavaScript, HTML, CSS
+- Data: MySQL, PostgreSQL, MongoDB, Elasticsearch
+- Integrations: Stripe, PayPal, Omise, Vimeo, Xfers, Igloo Home
+
+## Projects
+- [Prothoma](https://www.prothoma.com): E-commerce platform of Prothoma Publications (Prothom Alo). Lead engineer. Laravel, Vue.js, MySQL, Elasticsearch.
+- [Nirvana Memorial Garden ERP](https://nvs.inspireo.co/appointments): ERP for a funeral ritual management company in Singapore — booking, budgeting, purchasing, inventory, scheduling, calendar. Express.js, Vue.js, MongoDB, Omise.
+- [Screenie](https://mystockv2.anvs.xyz/home): Stock analysis and advisory with subscriptions and expert ideas. Laravel, Vue.js, MySQL, Stripe.
+- [Instant Basketball](https://instantbasketball.com): Subscription video courses via Vimeo, Stripe and PayPal. Laravel, MySQL.
+- [AskValor — Expert Hiring Marketplace](https://askvalor.co.uk/): Expert hiring marketplace. Backend architect. Next.js, Express.js, PostgreSQL.
+- [Becho — Business Management App](https://becho.store/): Business management mobile app with a Laravel API backend. Lead and database architect.
